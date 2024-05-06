@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ accordion
 
-##click on the link below 
+## click on the link below 
 https://rakeshcherry.github.io/FAQs-Accordion/
 
 ![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
